@@ -48,7 +48,7 @@ Me encanta crear bots, servidores, herramientas útiles y aprender cada día alg
 
 ## ⚡ Fun fact
 
-> Soy de los que rompe el código solo para tener el placer de arreglarlo 😄
+> Soy de los que destruye el código solo para tener el placer de arreglarlo 😄
 
 ---
 
