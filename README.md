@@ -52,3 +52,7 @@ Me encanta crear bots, servidores, herramientas útiles y aprender cada día alg
 
 ---
 
+## ☕ Apóyame
+
+¿Te gusta lo que hago o quieres apoyarme en mi camino como desarrollador?  
+Puedes invitarme una rebanada de pizza aquí 👉 [buymeacoffee.com/arakiel](https://buymeacoffee.com/arakiel)
